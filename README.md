@@ -34,7 +34,7 @@ To use this application:
 4. Have fun writing!
 
 ## Deployed Application
-You can find the deployed application [here](https://just-another-txt-editor-589a03d17432.herokuapp.com/).
+You can find the deployed application [here](https://just-anthr-txt-editor-b5f1347fd808.herokuapp.com/).
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
